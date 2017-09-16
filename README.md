@@ -1,3 +1,3 @@
 # hello-world
 Hello
-Welcome to my wrold!
+Welcome to my world!
